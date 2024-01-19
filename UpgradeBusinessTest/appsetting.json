@@ -1,0 +1,5 @@
+{
+  "sql": {
+    "cn": "data source=localhost;Initial Catalog=UpgradeBusinessTest;Integrated Security=True;"
+  }
+}
